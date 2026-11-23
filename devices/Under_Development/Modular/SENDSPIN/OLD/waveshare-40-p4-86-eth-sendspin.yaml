@@ -19,7 +19,7 @@ substitutions:
   imagemodel: "Gwen" # options are: Gwen, Luffy, Dory, HA-character
 
 # USE ONLINE OR LOCAL MODEL AND WALLPAPER IMAGES, IMAGES SHOULD BE PLACED IN: homeassistant/www/images/
-  imagepath: "https://github.com/RealDeco/xiaozhi-esphome/raw/main/images"
+  imagepath: "https://github.com/davidru85/xiaozhi-esphome/raw/main/images"
 #  imagepath: "http://homeassistant.local:8123/local/images/"
 
 ## PRESENCE / MOTION SENSORS ########## IF NOT USING THESE LEAVE THEM ALONE, SCRIPT WILL BREAK WITHOUT ###########################################
@@ -108,25 +108,25 @@ improv_serial:
 
 packages:
   core:
-    url: https://github.com/RealDeco/xiaozhi-esphome.git
+    url: https://github.com/davidru85/xiaozhi-esphome.git
     ref: main
     refresh: 0s
     files:
       - devices/Under_Development/Modular/core-sendspin.yaml
   hw:
-    url: https://github.com/RealDeco/xiaozhi-esphome.git
+    url: https://github.com/davidru85/xiaozhi-esphome.git
     ref: main
     refresh: 0s
     files:
       - devices/Under_Development/Modular/HW/waveshare-40-p4-86-eth-sendspin_hw.yaml
   extcomp:
-    url: https://github.com/RealDeco/xiaozhi-esphome.git
+    url: https://github.com/davidru85/xiaozhi-esphome.git
     ref: main
     refresh: 0s
     files:
       - devices/Under_Development/Modular/HW/sendspin-external_components.yaml
 
-### USE LOCAL MODULES (read description https://github.com/RealDeco/xiaozhi-esphome/blob/main/devices/Under_Development/Modular/README.md) #######
+### USE LOCAL MODULES (read description https://github.com/davidru85/xiaozhi-esphome/blob/main/devices/Under_Development/Modular/README.md) #######
 
 #packages: # Local
 #  core: !include localtest/core-sendspin.yaml
@@ -146,7 +146,7 @@ micro_wake_word:
     - hey_jarvis
 #    - alexa
 #    - hey_mycroft
-#    - model: https://raw.githubusercontent.com/RealDeco/xiaozhi-esphome/refs/heads/main/MicroWakeWords/models/v2/hey_sarah.json
+#    - model: https://raw.githubusercontent.com/davidru85/xiaozhi-esphome/refs/heads/main/MicroWakeWords/models/v2/hey_sarah.json
 #    - model: https://raw.githubusercontent.com/JohnnyPrimus/Custom_V2_MicroWakeWords/refs/heads/main/models/computer/computer.json
 #    - model: https://raw.githubusercontent.com/JohnnyPrimus/Custom_V2_MicroWakeWords/refs/heads/main/models/hey_friday/hey_friday.json
 #    - model: https://github.com/kahrendt/microWakeWord/releases/download/okay_nabu_20241226.3/okay_nabu.json

@@ -167,7 +167,7 @@ audio_file:
   - id: ready_sound
     file: ${startup_sound_file}
   - id: timer_finished_sound
-    file: https://github.com/RealDeco/xiaozhi-esphome/raw/main/sounds/timer_finished.flac
+    file: https://github.com/davidru85/xiaozhi-esphome/raw/main/sounds/timer_finished.flac
   - id: wake_word_triggered_sound
     file: ${wakeup_sound_file}
 

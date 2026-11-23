@@ -13,7 +13,7 @@ substitutions:
   mute_illustration_file: ${imagepath}/${imagemodel}/${imagewidth}x${imageheight}/mute.png
   playing_illustration_file: ${imagepath}/${imagemodel}/${imagewidth}x${imageheight}/playing.png
   clock_background_file: ${imagepath}/Other/${screenwidth}x${screenheight}/${clock_background_image}.png
-  startup_sound_file: https://github.com/RealDeco/xiaozhi-esphome/raw/main/sounds/${startup_sound}.flac
+  startup_sound_file: https://github.com/davidru85/xiaozhi-esphome/raw/main/sounds/${startup_sound}.flac
 
   loading_illustration_background_color: "000000"
   idle_illustration_background_color: "000000"
@@ -1462,12 +1462,12 @@ image:
     resize: ${screenwidth}x${screenheight}
     type: RGB565
   - platform: file
-    file: https://raw.githubusercontent.com/RealDeco/xiaozhi-esphome/main/images/Other/error-no-wifi.png
+    file: https://raw.githubusercontent.com/davidru85/xiaozhi-esphome/main/images/Other/error-no-wifi.png
     id: error_no_wifi
     resize: ${screenwidth}x${screenheight}
     type: RGB565
   - platform: file
-    file: https://github.com/RealDeco/xiaozhi-esphome/raw/main/images/Other/error-no-ha.png
+    file: https://github.com/davidru85/xiaozhi-esphome/raw/main/images/Other/error-no-ha.png
     id: error_no_ha
     resize: ${screenwidth}x${screenheight}
     type: RGB565

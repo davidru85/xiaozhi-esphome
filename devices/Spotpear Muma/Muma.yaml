@@ -4,13 +4,13 @@ substitutions:
 
   imagemodel: "Jarvis" # (options are: Alfred,Astrobot,Casita,Dory,EVE,Eyes,Girl1,GLaDOS,Guy1,Guy2,Harley,Jarvis,Mario,Prime,Robot,Robotgirl)
 
-  loading_illustration_file: https://github.com/RealDeco/xiaozhi-esphome/raw/main/images/${imagemodel}/240x240/loading.png
-  idle_illustration_file: https://github.com/RealDeco/xiaozhi-esphome/raw/main/images/${imagemodel}/240x240/idle.png
-  listening_illustration_file: https://github.com/RealDeco/xiaozhi-esphome/raw/main/images/${imagemodel}/240x240/listening.png
-  thinking_illustration_file: https://github.com/RealDeco/xiaozhi-esphome/raw/main/images/${imagemodel}/240x240/thinking.png
-  replying_illustration_file: https://github.com/RealDeco/xiaozhi-esphome/raw/main/images/${imagemodel}/240x240/replying.png
-  error_illustration_file: https://github.com/RealDeco/xiaozhi-esphome/raw/main/images/${imagemodel}/240x240/error.png
-  timer_finished_illustration_file: https://github.com/RealDeco/xiaozhi-esphome/raw/main/images/${imagemodel}/240x240/timer_finished.png
+  loading_illustration_file: https://github.com/davidru85/xiaozhi-esphome/raw/main/images/${imagemodel}/240x240/loading.png
+  idle_illustration_file: https://github.com/davidru85/xiaozhi-esphome/raw/main/images/${imagemodel}/240x240/idle.png
+  listening_illustration_file: https://github.com/davidru85/xiaozhi-esphome/raw/main/images/${imagemodel}/240x240/listening.png
+  thinking_illustration_file: https://github.com/davidru85/xiaozhi-esphome/raw/main/images/${imagemodel}/240x240/thinking.png
+  replying_illustration_file: https://github.com/davidru85/xiaozhi-esphome/raw/main/images/${imagemodel}/240x240/replying.png
+  error_illustration_file: https://github.com/davidru85/xiaozhi-esphome/raw/main/images/${imagemodel}/240x240/error.png
+  timer_finished_illustration_file: https://github.com/davidru85/xiaozhi-esphome/raw/main/images/${imagemodel}/240x240/timer_finished.png
 
   loading_illustration_background_color: "000000"
   idle_illustration_background_color: "000000"

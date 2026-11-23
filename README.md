@@ -11,10 +11,10 @@ The YAML files in `Devices/<device_name>/` are demo configurations and may be ou
 
 Use these links for the versions updated with more functionality and are still being developed on:
 
-**[Modular](https://github.com/RealDeco/xiaozhi-esphome/tree/main/devices/Under_Development/Modular)**  
+**[Modular](https://github.com/davidru85/xiaozhi-esphome/tree/main/devices/Under_Development/Modular)**  
 For ESPHome 2026.4.0+
 
-**[Modular with Sendspin](https://github.com/RealDeco/xiaozhi-esphome/tree/main/devices/Under_Development/Modular/SENDSPIN)**  
+**[Modular with Sendspin](https://github.com/davidru85/xiaozhi-esphome/tree/main/devices/Under_Development/Modular/SENDSPIN)**  
 For ESPHome 2026.9.0+
 
 
@@ -58,7 +58,7 @@ By request, this GitHub project provides a simple way to use Xiaozhi-based devic
 
 Video going through the esphome install of device was removed by youtube and my account blocked. strange world we live in.
 
-[▶️ Download the install video](https://github.com/RealDeco/xiaozhi-esphome/raw/main/install-xiaozhi-esphome.mp4?raw=true)
+[▶️ Download the install video](https://github.com/davidru85/xiaozhi-esphome/raw/main/install-xiaozhi-esphome.mp4?raw=true)
 
 
 ## ✅ Supported Devices (so far)
@@ -113,7 +113,7 @@ Guition Taichi pi: https://vi.aliexpress.com/item/1005007420092928.html
 
 Xingzhi Cube 1.54: https://www.aliexpress.com/item/1005008565082769.html
 
-Breadboard: Look in devices/Breadboard: https://github.com/RealDeco/xiaozhi-esphome/tree/main/devices/Breadboard
+Breadboard: Look in devices/Breadboard: https://github.com/davidru85/xiaozhi-esphome/tree/main/devices/Breadboard
 
 Breadboard Mini: https://www.aliexpress.com/item/1005009448496585.html
 
@@ -154,7 +154,7 @@ Curled audio cable for Guition JC3636W518 display: https://vi.aliexpress.com/ite
 
 Case for Freenove 2.8" (remember to pick correct print profile) https://makerworld.com/en/models/1382304-aura-smart-weather-forecast-display
 
-Other 3D files here: https://github.com/RealDeco/xiaozhi-esphome/tree/main/3D_Files
+Other 3D files here: https://github.com/davidru85/xiaozhi-esphome/tree/main/3D_Files
 
 ---EOF
 
