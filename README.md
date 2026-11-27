@@ -48,6 +48,14 @@ This is a fork of [RealDeco/xiaozhi-esphome](https://github.com/RealDeco/xiaozhi
 - Extra 240x240 image packs: **Dwight**, **Dobby** and **Vader**.
 - The `imagemodel` options comment in every device YAML lists these packs.
 
+### Pantallita (owner's device)
+
+*Pantallita* is the owner's voice satellite: an ESP32-S3 with a 240x240 GC9A01A round display, CST816 touch and an ES8311 codec, on ESPHome 2026.10.2. Its YAML (`esphome-web-deb564.yaml`) lives in the ESPHome dashboard, not in this repo, and loads its images from this fork.
+
+- Active image pack: `imagemodel: "Dobby"`
+- Options listed in its config: Alfred, Astrobot, Buzz, Casita, Cybergirl, Dobby, Dory, Dwight, EVE, Eyes, Eyes2, GLaDOS, Girl1, Guy1, Guy2, Gwen, HA-character, Harley, Jarvis, Luffy, Mario, Max, Prime, Robochibi, Robocop, Robot, Robotgirl, Shaun, Vader
+- To switch packs: change `imagemodel` in the ESPHome dashboard and install (OTA). The pack must have a `240x240` folder.
+
 ## 🖼️ Image packs
 
 The display images (idle, listening, thinking, replying…) are selected with the `imagemodel` substitution in each device YAML. See **[images/README.md](images/README.md)** for the full list of packs, the resolutions each one supports, and how to add a new one.
