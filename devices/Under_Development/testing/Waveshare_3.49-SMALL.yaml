@@ -27,7 +27,7 @@ substitutions:
 # in 172x640 or 640x172 only "Sarah" (currently only one model in this image format)
 # in 240x240 all the models:
 
-# Alita, Alfred, Astrobot, Buzz, Casita, Cybergirl, Dobby, Dory, EVE, Eyes, Eyes2, GLaDOS, Girl1, Guy1, Guy2, Gwen, HA-character, ha-girl, Hacker, Harley,
+# Alita, Alfred, Astrobot, Buzz, Casita, Cybergirl, Dobby, Dory, Dwight, EVE, Eyes, Eyes2, GLaDOS, Girl1, Guy1, Guy2, Gwen, HA-character, ha-girl, Hacker, Harley,
 # Jarvis, Luffy, Mario, Max, Prime, Robochibi, Robocop, Robot, Robotgirl, Sarah, Shaun, Vader
 
 ## PRESENCE / MOTION SENSORS ########## IF NOT USING THESE LEAVE THEM ALONE, SCRIPT WILL BREAK WITHOUT ###########################################

@@ -40,6 +40,18 @@ For ESPHome 2026.9.0+
 
 By request, this GitHub project provides a simple way to use Xiaozhi-based devices with ESPHome. These compact devices can serve as voice assistants integrated with Home Assistant.
 
+## 🍴 About this fork
+
+This is a fork of [RealDeco/xiaozhi-esphome](https://github.com/RealDeco/xiaozhi-esphome). Differences from upstream:
+
+- All image, sound and asset URLs in the device YAMLs point to `github.com/davidru85/xiaozhi-esphome`, so packs added here can be used directly.
+- Extra 240x240 image packs: **Dwight**, **Dobby** and **Vader**.
+- The `imagemodel` options comment in every device YAML lists these packs.
+
+## 🖼️ Image packs
+
+The display images (idle, listening, thinking, replying…) are selected with the `imagemodel` substitution in each device YAML. See **[images/README.md](images/README.md)** for the full list of packs, the resolutions each one supports, and how to add a new one.
+
 ## 🚀 Quick Start Guide
 
 ### Step-by-step Installation:
