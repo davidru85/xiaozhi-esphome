@@ -12,7 +12,7 @@ substitutions:
   imagemodel: "Gwen" # options are:
 
 # Alita, Alfred, Astrobot, Buzz, Casita, Cybergirl, Dobby, Dory, EVE, Eyes, Eyes2, GLaDOS, Girl1, Guy1, Guy2, Gwen, HA-character, ha-girl, Hacker, Harley,
-# Jarvis, Luffy, Mario, Max, Prime, Robochibi, Robocop, Robot, Robotgirl, Shaun
+# Jarvis, Luffy, Mario, Max, Prime, Robochibi, Robocop, Robot, Robotgirl, Shaun, Vader
 ##################################################################################################################################################
 
   display_platform: "mipi_spi"

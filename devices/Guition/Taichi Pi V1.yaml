@@ -19,7 +19,7 @@ substitutions:
 
 ##################################################################################################################################################
 # Alfred, Astrobot, Buzz, Casita, Cybergirl, Dobby, Dory, EVE, Eyes, Eyes2, GLaDOS, Girl1, Guy1, Guy2, Gwen, HA-character, Harley, Jarvis, Luffy,
-# Mario, Max, Prime, Robochibi, Robocop, Robot, Robotgirl, Shaun
+# Mario, Max, Prime, Robochibi, Robocop, Robot, Robotgirl, Shaun, Vader
 ##################################################################################################################################################
 
   startup_sound: "Home_Connected" # (options are: available,Home_Connected,Computer_Ready)
